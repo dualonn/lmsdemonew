@@ -1,0 +1,18 @@
+.content_main {
+    padding-top: var(--padding);
+}
+
+.block_title {
+    margin-top: 20px;
+    text-align: left;
+    color: red;
+    font-size: 18px;
+}
+
+.block_content {
+    margin-top: 10px;
+}
+
+.add_block_button {
+    margin-top: 20px;
+}
